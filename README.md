@@ -8,23 +8,27 @@ I build web applications with React and TypeScript, and Android apps with Flutte
 
 ## Selected work
 
-### Nexora
+### [Nexora](https://github.com/SithumDilshara/nexora)
 
 Web and software platform for Nexora Digital Solutions. A React and TypeScript interface in front of a Java Spring Boot API.
 
 React 19 · TypeScript · Tailwind CSS · Spring Boot 3.2
 
-### Sipsala
+### [Sipsala](https://github.com/SithumDilshara/sipsala)
 
-Educational Android app with lessons, quizzes, PDF materials, voice input, OCR, notifications, subscriptions, and an AI chat.
+Android learning app for pre-school to Grade 5. Students get lessons, quizzes, online classes, study materials, brain games, and the Sipsala AI teacher.
 
 Flutter · Firebase · PHP · MySQL
 
-### [FireZone](https://play.google.com/store/apps/details?id=com.firezone.lk)
+[Google Play](https://play.google.com/store/apps/details?id=com.nexora.sipsala)
+
+### [FireZone](https://github.com/SithumDilshara/firezone)
 
 Gaming guide and giveaway app, with guides, daily rewards, and custom rooms. It is not affiliated with Garena.
 
-Flutter · Firebase · PHP · MySQL · Google Play
+Flutter · Firebase · PHP · MySQL
+
+[Google Play](https://play.google.com/store/apps/details?id=com.firezone.lk)
 
 ## Experience
 
