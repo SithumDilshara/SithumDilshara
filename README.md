@@ -1,36 +1,63 @@
 # Sithum Dilshara
 
-**Android developer in Tangalle, Sri Lanka**
+**Software engineering student and founder of Nexora**
 
-ආයුබෝවන්. I'm Sithum Dilshara, an Android developer in Tangalle, on Sri Lanka's south coast.
+I'm Sithum Dilshara, a Bachelor of Information Technology student at the University of Colombo. I live in Tangalle, Sri Lanka (GMT+5:30), and I founded Nexora Digital Solutions in 2026.
 
-FireZone and RushPlay are live on Google Play. This profile describes those apps. Their source code is not published here.
+I build web applications with React and TypeScript, and Android apps with Flutter. I'm looking for remote junior full-stack and mobile work. This profile describes the products. It does not include their source code.
 
-## Work
+## Selected work
+
+### Nexora
+
+Web and software platform for Nexora Digital Solutions. A React and TypeScript interface in front of a Java Spring Boot API.
+
+React 19 · TypeScript · Tailwind CSS · Spring Boot 3.2
+
+### Sipsala
+
+Educational Android app with lessons, quizzes, PDF materials, voice input, OCR, notifications, subscriptions, and an AI chat.
+
+Flutter · Firebase · PHP · MySQL
 
 ### [FireZone](https://play.google.com/store/apps/details?id=com.firezone.lk)
 
-A Free Fire companion for guides, daily giveaways, custom rooms, VIP access, and diamond top-ups. It is not affiliated with Garena.
+Gaming guide and giveaway app, with guides, daily rewards, and custom rooms. It is not affiliated with Garena.
 
-Android · over 10,000 installs · updated July 2026
+Flutter · Firebase · PHP · MySQL · Google Play
 
-### [RushPlay](https://play.google.com/store/apps/details?id=io.ionic.prog68b314ac52c40f806433979a)
+## Experience
 
-Guides for Free Fire maps, characters, weapons, and ranked play, for new players and for people preparing for tournaments.
+**Founder and developer, Nexora Digital Solutions**
+2026–present · Sri Lanka
 
-Android · updated February 2026
+I build web software with React, TypeScript, and Spring Boot, and mobile apps with Flutter, PHP APIs, MySQL, and Firebase.
+
+## Skills
+
+- **Frontend** — React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
+- **Mobile** — Flutter, Dart, Android
+- **Backend** — Java, Spring Boot, PHP, REST APIs
+- **Data** — MySQL, Firebase Authentication, Realtime Database, Cloud Messaging
+- **Tools** — Git, GitHub, Postman, Android Studio, Maven
+
+## Education
+
+- **BIT, Software Engineering** — University of Colombo, 2024–2028
+- **Diploma in Information Technology** — University of Colombo, 2026
 
 ## Now
 
-- Keeping FireZone useful for players in Sri Lanka
-- Updating RushPlay as Free Fire changes
-- Open to collaborating on player-facing Android apps
+- Founder and developer at Nexora Digital Solutions
+- BIT in Software Engineering, University of Colombo, 2024–2028
+- Open to remote full-time, part-time, and freelance work
 
 ## Contact
 
 - GitHub: [SithumDilshara](https://github.com/SithumDilshara)
 - Email: [sithumdilshara12@gmail.com](mailto:sithumdilshara12@gmail.com)
+- Languages: Sinhala and English
 
 ---
 
-Play Store listings are the product. This repository does not contain source code.
+This repository describes the work. It does not contain source code.
